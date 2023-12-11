@@ -7,4 +7,6 @@ git init
   git remote add origin https://github.com/jishan1019/ggggggg.git
   git push -u origin main
 
-# or only Url Set Code: git remote set-url origin https://github.com/jishan1019/ggggggg.git
+# or only Url Set Code:
+
+ git remote set-url origin https://github.com/jishan1019/ggggggg.git
