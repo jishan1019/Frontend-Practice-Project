@@ -16,6 +16,9 @@ git remote set-url origin https://github.com/jishan1019/ggggggg.git
 4. git commit -m"commit"
 5. git push origin <branch_name>
 
+# For Delete branch
+1. git push origin --delete branch_name
+
 # Switch Branch Code below.
 1. git checkout <branch_name> <br/>
 
