@@ -26,4 +26,6 @@ git remote set-url origin https://github.com/jishan1019/ggggggg.git
 1. Git Clone Repo link
 
 # For Revert Last commit .
-1.  git reset e2b9edd --hard
+1. git log --oneline
+2.  git reset e2b9edd --hard
+
