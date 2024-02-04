@@ -29,8 +29,8 @@ git remote set-url origin https://github.com/jishan1019/ggggggg.git
 1. git log --oneline
 2.  git reset e2b9edd --hard
 
-or 
-git reflog
-git reset --hard b0168ee
+or  <br/>
+1. git reflog <br/>
+2. git reset --hard b0168ee
 
 
